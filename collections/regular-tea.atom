@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thfgroup.co.in/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thfgroup.co.in/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thfgroup.co.in/collections/regular-tea.atom"/>
+  <title>THF Group</title>
+  <updated>2023-12-02T13:06:15+05:30</updated>
+  <author>
+    <name>THF Group</name>
+  </author>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043374768447</id>
+    <published>2023-12-02T13:06:15+05:30</published>
+    <updated>2023-12-02T13:06:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/regular-combo-1kg-x-4"/>
+    <title>Regular Combo 1KG x 4</title>
+    <s:type>Regular Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/regular_1kg_4.png?v=1704356564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Regular Tea<br>
+        <strong>Price: </strong>
+            1280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Discover classic tea flavor with the Regular Combo 1KG x 4. Crafted with 4 different 1Kg packs, it's perfect for sharing or exploring nuanced herbal teas. Enjoy an energizing and inspiring tea experience today.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043374768447</id>
+      <title>4</title>
+      <s:price currency="INR">1280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043371032895</id>
+    <published>2023-12-02T13:00:48+05:30</published>
+    <updated>2023-12-02T13:00:48+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/regular-combo-1kg-x-2"/>
+    <title>Regular Combo 1KG x 2</title>
+    <s:type>Regular Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/regular_1kg_2.png?v=1704354840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Regular Tea<br>
+        <strong>Price: </strong>
+            640.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Experience classic tea flavors with our Regular Combo! For those who appreciate the traditional taste, this duo of two 1KG packs is the perfect choice. Feel energized and inspired with each sip as you enjoy the unique taste of our delicious tea!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043371032895</id>
+      <title>2</title>
+      <s:price currency="INR">640.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043370180927</id>
+    <published>2023-12-02T12:58:01+05:30</published>
+    <updated>2023-12-02T12:58:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/regular-combo-250g-x-8"/>
+    <title>Regular Combo 250g x 8</title>
+    <s:type>Regular Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/regular_250_8.png?v=1704358178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Regular Tea<br>
+        <strong>Price: </strong>
+            640.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Enjoy 8 classic 250g tea combos from our selection, perfect for sharing and exploring a variety of flavors. Our Regular Combo is a great way to start your day or share with friends. Enjoy a perfect cup every time!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043370180927</id>
+      <title>8</title>
+      <s:price currency="INR">640.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043369394495</id>
+    <published>2023-12-02T12:55:07+05:30</published>
+    <updated>2023-12-02T12:55:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/regular-combo-250g-x-4"/>
+    <title>Regular Combo 250g x 4</title>
+    <s:type>Regular Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/regular_250_4.png?v=1704356770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Regular Tea<br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Experience the classic flavor of the Regular Combo 250g x 4 from our signature tea combo. This complex blend of black tea is sure to delight your senses with its rich flavor and powerful aroma. Each package contains four 250g bags, perfect for those who want to share their favorite tea with friends. Enjoy the classic taste of tea made with only the highest quality ingredients.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043369394495</id>
+      <title>4</title>
+      <s:price currency="INR">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043368116543</id>
+    <published>2023-12-02T12:51:28+05:30</published>
+    <updated>2023-12-02T12:51:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/regular-combo-250g-x-2"/>
+    <title>Regular Combo 250g x 2</title>
+    <s:type>Regular Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/regualr_250_2.png?v=1704355001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Regular Tea<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Indulge in the classic tea flavor with the Regular Combo! This set of two 250g packs of high-quality tea will keep you stocked with a fresh, delightful treat. Each cup of tea is a unique experience, perfect for sharing with family and friends. Enjoy a delicious and timeless beverage!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043368116543</id>
+      <title>2</title>
+      <s:price currency="INR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043350061375</id>
+    <published>2023-12-02T12:07:06+05:30</published>
+    <updated>2023-12-02T12:07:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/regular-1kg"/>
+    <title>Regular 1KG</title>
+    <s:type>Regular Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/REGULAR1kg-Copy.png?v=1701499028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Regular Tea<br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Enjoy classic tea with Regular 1KG. This tea is packed in a 1kg bag, ensuring that you get the most out of every pound of tea. With tea sourced from premium suppliers, you can be sure to get a quality product that's sure to please.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043350061375</id>
+      <title>Default Title</title>
+      <s:price currency="INR">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043348259135</id>
+    <published>2023-12-02T12:02:13+05:30</published>
+    <updated>2023-12-02T12:02:13+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/regular-250g"/>
+    <title>Regular 250g</title>
+    <s:type>Regular Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/250gR.png?v=1701498736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Regular Tea<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">A special blend of tea with a classic flavor, Regular 250g is sure to delight. Our high-quality tea offers full-bodied taste with an exquisite aroma. The perfect combination of strength and smoothness.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043348259135</id>
+      <title>Default Title</title>
+      <s:price currency="INR">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+</feed>

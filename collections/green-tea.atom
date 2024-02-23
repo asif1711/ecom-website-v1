@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thfgroup.co.in/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thfgroup.co.in/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thfgroup.co.in/collections/green-tea.atom"/>
+  <title>THF Group</title>
+  <updated>2023-12-02T15:28:48+05:30</updated>
+  <author>
+    <name>THF Group</name>
+  </author>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043476054335</id>
+    <published>2023-12-02T15:28:48+05:30</published>
+    <updated>2023-12-02T15:28:48+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/green-tea-combo-100g-x-10"/>
+    <title>Green Tea Combo 100g x 10</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/green_100_10.png?v=1704358860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Step up your tea game with Green Tea Combo 100g x 10! This set includes 10 packs of 100g of a delicious and unique blend of high-quality green tea, designed to create an inviting flavor and aroma. Enjoy a smooth, flavorful cup of green tea and share with family and friends. Make your sipping experience a truly special one!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043476054335</id>
+      <title>10</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043474940223</id>
+    <published>2023-12-02T15:26:51+05:30</published>
+    <updated>2023-12-02T15:26:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/green-tea-combo-100g-x-5"/>
+    <title>Green Tea Combo 100g x 5</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/green_100_5.png?v=1704360405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Enjoy the delightful, fragrant aroma and health benefits of this Green Tea Combo, made with five 100g bags of freshly-harvested green tea. Rich in antioxidants, this combo is perfect for those looking to support their immune system! Sip in peace knowing that every cup promotes wellness.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043474940223</id>
+      <title>5</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043473400127</id>
+    <published>2023-12-02T15:25:05+05:30</published>
+    <updated>2023-12-02T15:25:05+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/green-tea-combo-100g-x-2"/>
+    <title>Green Tea Combo 100g x 2</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/green_100_2.png?v=1704354469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Brew the perfect cup of green tea every time with this Green Tea Combo! Enjoy two 100g bags of the most delicious and flavorful green tea, handpicked from select tea gardens - perfect for newbies and experienced tea connoisseurs alike! Enjoy your tea with the full aroma and taste of the finest quality blends.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043473400127</id>
+      <title>2</title>
+      <s:price currency="INR">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043362775359</id>
+    <published>2023-12-02T12:38:35+05:30</published>
+    <updated>2023-12-02T12:38:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/green-tea-100g"/>
+    <title>Green Tea 100g</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/gree3dcopy.png?v=1701500918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Experience the vibrant flavor of Green Tea 100g — freshly harvested to retain maximum health benefits. An essential part of any tea lover’s collection, this tea is sure to bring a zesty flavor to your day. Enjoy the richness and freshness of a tea like no other!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043362775359</id>
+      <title>Default Title</title>
+      <s:price currency="INR">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

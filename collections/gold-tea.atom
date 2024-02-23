@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thfgroup.co.in/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thfgroup.co.in/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thfgroup.co.in/collections/gold-tea.atom"/>
+  <title>THF Group</title>
+  <updated>2023-12-02T13:39:18+05:30</updated>
+  <author>
+    <name>THF Group</name>
+  </author>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043393347903</id>
+    <published>2023-12-02T13:39:18+05:30</published>
+    <updated>2023-12-02T13:39:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/gold-combo-250g-x-8"/>
+    <title>Gold Combo 250g x 8</title>
+    <s:type>Gold Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/gold_250_8.png?v=1704357464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Gold Tea<br>
+        <strong>Price: </strong>
+            960.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Experience the perfect blend of luxury and refreshment with this Gold Combo Tea set! Enjoy 8 individually-packed 250 gram bags of bold and distinct tea flavors. Invigorate your day and indulge in the comfort of quality tea, anytime!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043393347903</id>
+      <title>8</title>
+      <s:price currency="INR">960.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043391676735</id>
+    <published>2023-12-02T13:37:16+05:30</published>
+    <updated>2023-12-02T13:37:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/gold-combo-250g-x-4"/>
+    <title>Gold Combo 250g x 4</title>
+    <s:type>Gold Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/gold_250_4.png?v=1704356027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Gold Tea<br>
+        <strong>Price: </strong>
+            480.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Savour the unique aroma of our Gold Combo tea with 4 packs of 250g. Each pack contains the perfect mix of Assam, Darjeeling, Green Tea and Nilgiri Tea making this combo a must-have for tea lovers. Enjoy the unique taste and experience the delightful blend with every sip.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043391676735</id>
+      <title>4</title>
+      <s:price currency="INR">480.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043389546815</id>
+    <published>2023-12-02T13:35:07+05:30</published>
+    <updated>2023-12-02T13:35:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/gold-combo-1kg-x-2"/>
+    <title>Gold Combo 1KG x 2</title>
+    <s:type>Gold Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/gold_1kg_2.png?v=1704353663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Gold Tea<br>
+        <strong>Price: </strong>
+            960.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Indulge in a luxurious tea experience with our Gold Combo! This combo includes two 1KG packs of our exquisite, fancy tea blend. Enjoy a delectable flavor with all the health benefits of tea, without compromising on the premium taste! Take yourself to a higher level of indulgence with this luxury combo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043389546815</id>
+      <title>2</title>
+      <s:price currency="INR">960.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043386302783</id>
+    <published>2023-12-02T13:31:33+05:30</published>
+    <updated>2023-12-02T13:31:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/gold-250g-x-2"/>
+    <title>Gold Combo 250g x 2</title>
+    <s:type>Gold Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/gold_250_2.png?v=1704354216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Gold Tea<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Indulge in the luxury of our Gold Tea Combo! Enjoy two full packets of Gold tea, each containing 250g for a total of 500g of rich, aromatic flavor. Our fancy cans make a sophisticated and elegant addition to any kitchen. Savor the extraordinary taste of Gold tea!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043386302783</id>
+      <title>2</title>
+      <s:price currency="INR">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043354747199</id>
+    <published>2023-12-02T12:20:27+05:30</published>
+    <updated>2023-12-02T12:20:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/gold-1kg"/>
+    <title>Gold 1KG</title>
+    <s:type>Gold Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/GOLD1kg-Copy.png?v=1701499829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Gold Tea<br>
+        <strong>Price: </strong>
+            480.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Savor the fancy flavor of Gold 1KG tea - the perfect combination of taste and convenience. Each 1kg package is a luxurious experience designed to satisfy your senses and tantalize your palate. Enjoy the exquisite aroma and rich flavor of this exquisite blend.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043354747199</id>
+      <title>Default Title</title>
+      <s:price currency="INR">480.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043352092991</id>
+    <published>2023-12-02T12:12:14+05:30</published>
+    <updated>2023-12-02T12:12:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/gold-250g"/>
+    <title>Gold 250g</title>
+    <s:type>Gold Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/GOLD250.png?v=1701499336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Gold Tea<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Discover the delight of Gold 250g! Our exclusive blend of tea is the perfect choice for those who appreciate the finer things in life. Enjoy flavors like never before with its exotic taste and luxurious feeling. Experience the richness of our truly unique tea!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043352092991</id>
+      <title>Default Title</title>
+      <s:price currency="INR">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+</feed>

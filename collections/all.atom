@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thfgroup.co.in/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thfgroup.co.in/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thfgroup.co.in/collections/all.atom"/>
+  <title>THF Group</title>
+  <updated>2023-12-26T16:10:33+05:30</updated>
+  <author>
+    <name>THF Group</name>
+  </author>
+  <entry>
+    <id>https://thfgroup.co.in/products/9077120631103</id>
+    <published>2023-12-26T16:10:33+05:30</published>
+    <updated>2023-12-26T16:10:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/regular-combo-100g-x-10"/>
+    <title>Regular Combo 100g x 10</title>
+    <s:type>Regular Tea</s:type>
+    <s:vendor>THF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/regular_100_10.png?v=1704359934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>THF<br>
+        <strong>Type: </strong>Regular Tea<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Enjoy 10 small 100g tea packets from our selection, perfect for sharing and exploring a variety of flavors. Our Regular Combo is a great way to start your day or share with friends. Enjoy a perfect cup every time!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9077120631103</id>
+      <title>Default Title</title>
+      <s:price currency="INR">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043476054335</id>
+    <published>2023-12-02T15:28:48+05:30</published>
+    <updated>2023-12-02T15:28:48+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/green-tea-combo-100g-x-10"/>
+    <title>Green Tea Combo 100g x 10</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/green_100_10.png?v=1704358860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Step up your tea game with Green Tea Combo 100g x 10! This set includes 10 packs of 100g of a delicious and unique blend of high-quality green tea, designed to create an inviting flavor and aroma. Enjoy a smooth, flavorful cup of green tea and share with family and friends. Make your sipping experience a truly special one!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043476054335</id>
+      <title>10</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043474940223</id>
+    <published>2023-12-02T15:26:51+05:30</published>
+    <updated>2023-12-02T15:26:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/green-tea-combo-100g-x-5"/>
+    <title>Green Tea Combo 100g x 5</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/green_100_5.png?v=1704360405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Enjoy the delightful, fragrant aroma and health benefits of this Green Tea Combo, made with five 100g bags of freshly-harvested green tea. Rich in antioxidants, this combo is perfect for those looking to support their immune system! Sip in peace knowing that every cup promotes wellness.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043474940223</id>
+      <title>5</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043473400127</id>
+    <published>2023-12-02T15:25:05+05:30</published>
+    <updated>2023-12-02T15:25:05+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/green-tea-combo-100g-x-2"/>
+    <title>Green Tea Combo 100g x 2</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/green_100_2.png?v=1704354469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Brew the perfect cup of green tea every time with this Green Tea Combo! Enjoy two 100g bags of the most delicious and flavorful green tea, handpicked from select tea gardens - perfect for newbies and experienced tea connoisseurs alike! Enjoy your tea with the full aroma and taste of the finest quality blends.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043473400127</id>
+      <title>2</title>
+      <s:price currency="INR">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043412681023</id>
+    <published>2023-12-02T14:10:17+05:30</published>
+    <updated>2023-12-02T14:10:17+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/elaichi-combo-250g-x-8"/>
+    <title>Elaichi Combo 250g x 8</title>
+    <s:type>Elaichi Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/elaichi_250_8.png?v=1704357137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Elaichi Tea<br>
+        <strong>Price: </strong>
+            832.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Experience the captivating flavor and aroma of Elaichi Tea with our exclusive 8-pack of 250g bags. Crafted with only the finest ingredients, it's a delicious and rich blend that's sure to satisfy your taste buds. Enjoy a cup of this heavenly elaichi magic and let its warming effect soothe your soul.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043412681023</id>
+      <title>8</title>
+      <s:price currency="INR">832.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043411927359</id>
+    <published>2023-12-02T14:08:25+05:30</published>
+    <updated>2023-12-02T14:08:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/elaichi-combo-250g-x-4"/>
+    <title>Elaichi Combo 250g x 4</title>
+    <s:type>Elaichi Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/elaichi_250_4.png?v=1704355791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Elaichi Tea<br>
+        <strong>Price: </strong>
+            416.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Indulge your senses with Elaichi Combo! Savour the aroma of cardamom and a perfect cup of tea to start your day. Get four 250g packages of this delightful combo, so you can enjoy it with friends and family.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043411927359</id>
+      <title>4</title>
+      <s:price currency="INR">416.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043403997503</id>
+    <published>2023-12-02T13:51:20+05:30</published>
+    <updated>2023-12-02T13:51:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/elaichi-combo-250g-x-2"/>
+    <title>Elaichi Combo 250g x 2</title>
+    <s:type>Elaichi Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/elaichi_250_2.png?v=1704353377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Elaichi Tea<br>
+        <strong>Price: </strong>
+            208.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Experience a revitalizing cup of tea with Elaichi Combo. Enjoy the nuanced flavours of elaichi with two 250g packs for a refreshing treat anytime. Stimulate your senses with the perfect balance of a delicious tea that will revitalize your day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043403997503</id>
+      <title>2</title>
+      <s:price currency="INR">208.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043401343295</id>
+    <published>2023-12-02T13:48:17+05:30</published>
+    <updated>2023-12-02T13:48:17+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/premium-combo-250g-x-8"/>
+    <title>Premium Combo 250g x 8</title>
+    <s:type>Premium Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/premium_250_8.png?v=1704357915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Premium Tea<br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Discover a unique premium tea experience with this exclusive 8-piece combo! Enjoy 250g each of the finest tea leaves sourced from the world's best regions. Indulge in a flavorful, enticing, and oh-so-special tea journey.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043401343295</id>
+      <title>8</title>
+      <s:price currency="INR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043397837119</id>
+    <published>2023-12-02T13:44:23+05:30</published>
+    <updated>2023-12-02T13:44:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/premium-combo-250g-x-4"/>
+    <title>Premium Combo 250g x 4</title>
+    <s:type>Premium Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/premium_250_4.png?v=1704356267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Premium Tea<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Discover the power of Premium Combo Tea and indulge in its delicate flavor. Our combo pack includes 4 x 250g of premium tea for a total of 1kg - perfect for tea connoisseurs, tea lovers and those who prefer fuller-bodied flavor. Enjoy the invigorating aroma and satisfaction of this premium tea experience.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043397837119</id>
+      <title>4</title>
+      <s:price currency="INR">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043396067647</id>
+    <published>2023-12-02T13:42:20+05:30</published>
+    <updated>2023-12-02T13:42:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/premium-combo-250g-x-2"/>
+    <title>Premium Combo 250g x 2</title>
+    <s:type>Premium Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/premium_250_2.png?v=1704354667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Premium Tea<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Experience the exquisite taste with this premium tea combo set. Enjoy two 250g bags of premium tea of your choice - perfect for sharing with a friend or simply indulging yourself. Enjoy a unique and rich flavor in every cup!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043396067647</id>
+      <title>2</title>
+      <s:price currency="INR">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043393347903</id>
+    <published>2023-12-02T13:39:18+05:30</published>
+    <updated>2023-12-02T13:39:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/gold-combo-250g-x-8"/>
+    <title>Gold Combo 250g x 8</title>
+    <s:type>Gold Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/gold_250_8.png?v=1704357464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Gold Tea<br>
+        <strong>Price: </strong>
+            960.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Experience the perfect blend of luxury and refreshment with this Gold Combo Tea set! Enjoy 8 individually-packed 250 gram bags of bold and distinct tea flavors. Invigorate your day and indulge in the comfort of quality tea, anytime!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043393347903</id>
+      <title>8</title>
+      <s:price currency="INR">960.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043391676735</id>
+    <published>2023-12-02T13:37:16+05:30</published>
+    <updated>2023-12-02T13:37:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/gold-combo-250g-x-4"/>
+    <title>Gold Combo 250g x 4</title>
+    <s:type>Gold Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/gold_250_4.png?v=1704356027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Gold Tea<br>
+        <strong>Price: </strong>
+            480.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Savour the unique aroma of our Gold Combo tea with 4 packs of 250g. Each pack contains the perfect mix of Assam, Darjeeling, Green Tea and Nilgiri Tea making this combo a must-have for tea lovers. Enjoy the unique taste and experience the delightful blend with every sip.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043391676735</id>
+      <title>4</title>
+      <s:price currency="INR">480.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043389546815</id>
+    <published>2023-12-02T13:35:07+05:30</published>
+    <updated>2023-12-02T13:35:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/gold-combo-1kg-x-2"/>
+    <title>Gold Combo 1KG x 2</title>
+    <s:type>Gold Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/gold_1kg_2.png?v=1704353663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Gold Tea<br>
+        <strong>Price: </strong>
+            960.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Indulge in a luxurious tea experience with our Gold Combo! This combo includes two 1KG packs of our exquisite, fancy tea blend. Enjoy a delectable flavor with all the health benefits of tea, without compromising on the premium taste! Take yourself to a higher level of indulgence with this luxury combo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043389546815</id>
+      <title>2</title>
+      <s:price currency="INR">960.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043386302783</id>
+    <published>2023-12-02T13:31:33+05:30</published>
+    <updated>2023-12-02T13:31:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/gold-250g-x-2"/>
+    <title>Gold Combo 250g x 2</title>
+    <s:type>Gold Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/gold_250_2.png?v=1704354216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Gold Tea<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Indulge in the luxury of our Gold Tea Combo! Enjoy two full packets of Gold tea, each containing 250g for a total of 500g of rich, aromatic flavor. Our fancy cans make a sophisticated and elegant addition to any kitchen. Savor the extraordinary taste of Gold tea!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043386302783</id>
+      <title>2</title>
+      <s:price currency="INR">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043374768447</id>
+    <published>2023-12-02T13:06:15+05:30</published>
+    <updated>2023-12-02T13:06:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/regular-combo-1kg-x-4"/>
+    <title>Regular Combo 1KG x 4</title>
+    <s:type>Regular Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/regular_1kg_4.png?v=1704356564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Regular Tea<br>
+        <strong>Price: </strong>
+            1280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Discover classic tea flavor with the Regular Combo 1KG x 4. Crafted with 4 different 1Kg packs, it's perfect for sharing or exploring nuanced herbal teas. Enjoy an energizing and inspiring tea experience today.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043374768447</id>
+      <title>4</title>
+      <s:price currency="INR">1280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043371032895</id>
+    <published>2023-12-02T13:00:48+05:30</published>
+    <updated>2023-12-02T13:00:48+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/regular-combo-1kg-x-2"/>
+    <title>Regular Combo 1KG x 2</title>
+    <s:type>Regular Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/regular_1kg_2.png?v=1704354840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Regular Tea<br>
+        <strong>Price: </strong>
+            640.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Experience classic tea flavors with our Regular Combo! For those who appreciate the traditional taste, this duo of two 1KG packs is the perfect choice. Feel energized and inspired with each sip as you enjoy the unique taste of our delicious tea!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043371032895</id>
+      <title>2</title>
+      <s:price currency="INR">640.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043370180927</id>
+    <published>2023-12-02T12:58:01+05:30</published>
+    <updated>2023-12-02T12:58:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/regular-combo-250g-x-8"/>
+    <title>Regular Combo 250g x 8</title>
+    <s:type>Regular Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/regular_250_8.png?v=1704358178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Regular Tea<br>
+        <strong>Price: </strong>
+            640.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Enjoy 8 classic 250g tea combos from our selection, perfect for sharing and exploring a variety of flavors. Our Regular Combo is a great way to start your day or share with friends. Enjoy a perfect cup every time!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043370180927</id>
+      <title>8</title>
+      <s:price currency="INR">640.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043369394495</id>
+    <published>2023-12-02T12:55:07+05:30</published>
+    <updated>2023-12-02T12:55:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/regular-combo-250g-x-4"/>
+    <title>Regular Combo 250g x 4</title>
+    <s:type>Regular Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/regular_250_4.png?v=1704356770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Regular Tea<br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Experience the classic flavor of the Regular Combo 250g x 4 from our signature tea combo. This complex blend of black tea is sure to delight your senses with its rich flavor and powerful aroma. Each package contains four 250g bags, perfect for those who want to share their favorite tea with friends. Enjoy the classic taste of tea made with only the highest quality ingredients.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043369394495</id>
+      <title>4</title>
+      <s:price currency="INR">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043368116543</id>
+    <published>2023-12-02T12:51:28+05:30</published>
+    <updated>2023-12-02T12:51:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/regular-combo-250g-x-2"/>
+    <title>Regular Combo 250g x 2</title>
+    <s:type>Regular Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/regualr_250_2.png?v=1704355001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Regular Tea<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Indulge in the classic tea flavor with the Regular Combo! This set of two 250g packs of high-quality tea will keep you stocked with a fresh, delightful treat. Each cup of tea is a unique experience, perfect for sharing with family and friends. Enjoy a delicious and timeless beverage!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043368116543</id>
+      <title>2</title>
+      <s:price currency="INR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043362775359</id>
+    <published>2023-12-02T12:38:35+05:30</published>
+    <updated>2023-12-02T12:38:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/green-tea-100g"/>
+    <title>Green Tea 100g</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/gree3dcopy.png?v=1701500918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Experience the vibrant flavor of Green Tea 100g — freshly harvested to retain maximum health benefits. An essential part of any tea lover’s collection, this tea is sure to bring a zesty flavor to your day. Enjoy the richness and freshness of a tea like no other!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043362775359</id>
+      <title>Default Title</title>
+      <s:price currency="INR">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043361268031</id>
+    <published>2023-12-02T12:34:32+05:30</published>
+    <updated>2023-12-02T12:34:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/elaichi-250g"/>
+    <title>Elaichi 250g</title>
+    <s:type>Elaichi Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/elaichi_1.png?v=1701684033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Elaichi Tea<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Indulge your senses with Elaichi Tea! An aromatic blend of cardamom and fragrant tea, this delightful infusion will have you refreshed and ready for the day. Enjoy a cup of this warm beverage and delight in its unique flavor.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043361268031</id>
+      <title>Default Title</title>
+      <s:price currency="INR">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043358679359</id>
+    <published>2023-12-02T12:27:36+05:30</published>
+    <updated>2023-12-02T12:27:36+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/premium-250g"/>
+    <title>Premium 250g</title>
+    <s:type>Premium Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/Premium250gm.png?v=1701500259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Premium Tea<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">This 250g of premium tea is packed with flavor and aroma, perfect for tea aficionados who desire a quality experience. An excellent choice to enjoy in the morning, it's sure to start your day off right!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043358679359</id>
+      <title>Default Title</title>
+      <s:price currency="INR">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043354747199</id>
+    <published>2023-12-02T12:20:27+05:30</published>
+    <updated>2023-12-02T12:20:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/gold-1kg"/>
+    <title>Gold 1KG</title>
+    <s:type>Gold Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/GOLD1kg-Copy.png?v=1701499829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Gold Tea<br>
+        <strong>Price: </strong>
+            480.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Savor the fancy flavor of Gold 1KG tea - the perfect combination of taste and convenience. Each 1kg package is a luxurious experience designed to satisfy your senses and tantalize your palate. Enjoy the exquisite aroma and rich flavor of this exquisite blend.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043354747199</id>
+      <title>Default Title</title>
+      <s:price currency="INR">480.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043352092991</id>
+    <published>2023-12-02T12:12:14+05:30</published>
+    <updated>2023-12-02T12:12:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/gold-250g"/>
+    <title>Gold 250g</title>
+    <s:type>Gold Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/GOLD250.png?v=1701499336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Gold Tea<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Discover the delight of Gold 250g! Our exclusive blend of tea is the perfect choice for those who appreciate the finer things in life. Enjoy flavors like never before with its exotic taste and luxurious feeling. Experience the richness of our truly unique tea!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043352092991</id>
+      <title>Default Title</title>
+      <s:price currency="INR">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thfgroup.co.in/products/9043350061375</id>
+    <published>2023-12-02T12:07:06+05:30</published>
+    <updated>2023-12-02T12:07:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://thfgroup.co.in/products/regular-1kg"/>
+    <title>Regular 1KG</title>
+    <s:type>Regular Tea</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0843/7114/5023/files/REGULAR1kg-Copy.png?v=1701499028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Regular Tea<br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Enjoy classic tea with Regular 1KG. This tea is packed in a 1kg bag, ensuring that you get the most out of every pound of tea. With tea sourced from premium suppliers, you can be sure to get a quality product that's sure to please.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thfgroup.co.in/products/9043350061375</id>
+      <title>Default Title</title>
+      <s:price currency="INR">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>
